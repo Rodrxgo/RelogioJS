@@ -22,6 +22,7 @@ Este projeto exibe um relógio digital em tempo real, utilizando apenas HTML, CS
 2. Abra o arquivo index.html no navegador.
 
 📁 Estrutura
+
 index.html — Estrutura da página
 
 style.css — Estilos do relógio
